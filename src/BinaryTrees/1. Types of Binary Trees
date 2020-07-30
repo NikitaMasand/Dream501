@@ -1,0 +1,16 @@
+Full Binary tree: tree in which every node has either 0 or 2 children
+
+Perfect Binary tree: all interior nodes have exactly 2 children and leaves are at
+same depth or level
+
+Complete binary tree: binary tree in which every level except possibly last is completely
+filled and all nodes in last level are as left as possible.
+The last level h can have nodes from 1 to 2^(h-1). it can be efficiently represented using
+an array
+
+Balanced Binary Tree:
+
+Degenerate or Pathological Binary tree: each parent node has only one associated child node.
+performance wise, it will behave like a linked list.
+
+
